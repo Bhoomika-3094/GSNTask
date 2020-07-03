@@ -1,0 +1,62 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "invoiceNo": "4003",
+      "orderDate": "4/3/2017",
+      "deliveryDate": "4/3/2017,9:00PM",
+      "saleAmount": "11,800",
+      "employee": "Harv Muud",
+      "city": "Los Angeless,USa",
+      "productDetails" :{
+        "productName" : "Prestige",
+        
+      }
+    },
+    {
+      "id": 2,
+      "invoiceNo": "4004",
+      "orderDate": "4/3/2017",
+      "deliveryDate": "4/3/2017,9:00PM",
+      "saleAmount": "11,800",
+      "employee": "Harv Muud",
+      "city": "Los Angeless,USA"
+    },
+    {
+      "id": 3,
+      "invoiceNo": "4005",
+      "orderDate": "4/3/2017",
+      "deliveryDate": "4/3/2017,9:00PM",
+      "saleAmount": "11,800",
+      "employee": "Harv Muud",
+      "city": "Los Angeless,USA"
+    },
+    {
+      "id": 4,
+      "invoiceNo": "4006",
+      "orderDate": "4/3/2017",
+      "deliveryDate": "4/3/2017,9:00PM",
+      "saleAmount": "11,800",
+      "employee": "Harv Muud",
+      "city": "Los Angeless,USA"
+    },
+    {
+      "id": 5,
+      "invoiceNo": "4007",
+      "orderDate": "4/3/2017",
+      "deliveryDate": "4/3/2017,9:00PM",
+      "saleAmount": "11,800",
+      "employee": "Harv Muud",
+      "city": "Los Angeless,USA"
+    },
+    {
+      "id": 6,
+      "invoiceNo": "4008",
+      "orderDate": "4/3/2019",
+      "deliveryDate": "4/3/2019,10:00PM",
+      "saleAmount": "11,800",
+      "employee": "Luis",
+      "city": "Los Angeless,USA"
+    }
+  ]
+}
